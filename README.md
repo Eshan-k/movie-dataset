@@ -1,2 +1,15 @@
-# movie-dataset
-TMDB Movie Dataset Analysis
+#IMDB Movie Dataset Analysis
+This project is based on the IMDB movies Analaysis for the year 1961 till 2015
+
+#Getting Started
+I have made a complete analysis using all the data in the jupyter notebook,
+starting from assessing the data,then cleaning the data, then Data wrangling, 
+Exploring the entire data based on statistical analysis,histogram,scatter plots
+and have answered for several questions from different perspective using different 
+variable of data and predicted from the analysis in the conclusion.
+
+#Prerequisties
+<li> Python3 </li>
+<li> Anaconda </li> 
+<li> Jupyter Notebook </li>
+<li> Python packages - Numpy, Pandas, Matplotlib </li>
